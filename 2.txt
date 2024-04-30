@@ -32,3 +32,5 @@ daemon.requestLoop()
 
 
 https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DC_Practicals
+
+https://colab.research.google.com/drive/10tuDW7DTIqW63ALk9jCaYyGvVxfsntYE?usp=sharing
