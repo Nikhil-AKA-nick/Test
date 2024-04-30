@@ -29,3 +29,6 @@ print("Server URI:", uri)
 
 # Start the server
 daemon.requestLoop()
+
+
+https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DC_Practicals
